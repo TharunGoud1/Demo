@@ -1,0 +1,5 @@
+Tharun 
+Kumar
+Goud
+
+a+b = a2+b2+2ab
